@@ -1,0 +1,26 @@
+//
+@import url('https://v1.fontapi.ir/css/Shabnam');
+
+*,
+body {
+    font-family: Shabnam;
+}
+
+.invalid-feedback {
+    display: block !important;
+}
+
+.background {
+
+    position:
+        absolute;
+
+    display:
+        block;
+
+    top: 0;
+
+    left: 0;
+
+    z-index: 0;
+}
